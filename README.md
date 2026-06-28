@@ -83,7 +83,7 @@ You can run Terraform CI/CD using GitHub Actions instead of from a local environ
 
 4. By commenting `digger plan` or `digger apply` in the PR comments, GitHub Actions will execute `terraform plan` or `terraform apply`.
 
-ref: https://github.com/spider-man-tm/kaggle-infrastructure/pull/10
+ref: https://github.com/takayoshi-makabe/kaggle-infrastructure/pull/10
 
 <br />
 
