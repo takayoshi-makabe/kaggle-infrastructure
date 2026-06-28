@@ -8,7 +8,7 @@ machine_type     = "e2-micro"
 image            = "ubuntu-os-cloud/ubuntu-2004-lts"
 network_name     = "default" # VPC Network name
 github_email     = "makabe.takayoshi1117@gmail.com"
-github_user_name = "spider-man-tm"
+github_user_name = "takayoshi-makabe"
 kaggle_username  = "spidermandance" # Your Kaggle username
 
 # GCE & Network

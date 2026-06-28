@@ -85,7 +85,7 @@ terraform destroy
 
 4. PR のコメントに `digger plan`・`digger apply` とコメントすることで、GitHub Actions が `terraform plan`・`terraform apply` を実行します。
 
-参考: https://github.com/spider-man-tm/kaggle-infrastructure/pull/10
+参考: https://github.com/takayoshi-makabe/kaggle-infrastructure/pull/10
 
 <br />
 
